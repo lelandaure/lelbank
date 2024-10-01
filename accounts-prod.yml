@@ -2,7 +2,7 @@ build:
   version: "prod"
   
 accounts:
-  message: "Welcome to LELBank PRODUCTIONS accounts related local APIs "
+  message: "PRODUCTIONS: Welcome to LELBank  accounts related local APIs "
   contactDetails:
     name: "Luis Landaure - Developer"
     email: "{cipher}7c1bf54d9a1b16aa62ce6a843cf8b93f29d89c07b3d861003596af372140dcbc"

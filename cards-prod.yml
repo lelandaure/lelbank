@@ -2,7 +2,7 @@ build:
   version: "3.0"
   
 cards:
-  message: "PRODUCTIONS: Welcome to LELBank  accounts related local APIs "
+  message: "PRODUCTIONS:: Welcome to LELBank  accounts related local APIs "
   contactDetails:
     name: "Luis Landaure - Developer"
     email: "lel@prod.com"

@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/accountsdb
     username: root
-    password: root
+    password: roott
   jpa:
     show-sql: true
     sql:

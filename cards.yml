@@ -26,7 +26,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to LELBank accounts related local APIs "
+  message: "Default: Welcome to LELBank accounts related local APIs "
   contactDetails:
     name: "Luis Landaure - Developer"
     email: "lel@main.com"

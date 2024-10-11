@@ -9,7 +9,7 @@ spring:
   # h2:
   #   console:
   #     enabled: true
-    url: ${SPRING_DATASOURCE_URL:jdbc:mysql://localhost:3308/cardsdb}
+    url: jdbc:mysql://localhost:3308/cardsdb
     username: root
     password: root
   jpa:

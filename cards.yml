@@ -9,7 +9,7 @@ spring:
   # h2:
   #   console:
   #     enabled: true
-    url: jdbc:mysql://cardsdb:3306/cardsdb
+    # url: jdbc:mysql://cardsdb:3306/cardsdb
     username: root
     password: root
   jpa:

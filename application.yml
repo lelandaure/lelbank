@@ -23,7 +23,7 @@ endpoints:
 
 eureka:
   instance:
-    # preferIpAddress: true
+    preferIpAddress: true
   client:
     fetch-registry: true
     register-with-eureka: true

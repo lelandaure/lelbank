@@ -6,12 +6,20 @@ spring:
     password: "guest"
 
 management:
+  endpoint:
+    shutdown:
+      enabled: true
+    health:
+      probes:
+        enabled: true
   endpoints:
     web:
       exposure:
         include: "*"
-  endpoint:
-    shutdown:
+  health:
+    readiness-state:
+      enabled: true
+    liveness-state:
       enabled: true
   info:
     env:

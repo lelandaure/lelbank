@@ -24,9 +24,9 @@ management:
   info:
     env:
       enabled: true
-  metrics:
-    tags:
-      application: ${spring.application.name:default-name}
+  # metrics:
+    # tags:
+      # application: ${spring.application.name:default-name}
 
 endpoints:
   shutdown:

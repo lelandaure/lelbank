@@ -1,7 +1,7 @@
 server:
   port: 8070
 eureka:
-  instance:
+  # instance:
     # hostname: localhost
     # ip-address: 127.0.0.1
   client:

@@ -4,7 +4,14 @@ spring:
     port: 5672
     username: "guest"
     password: "guest"
-
+logging:
+  level:
+    com:
+      lel:
+        accounts: DEBUG
+  pattern:
+    level: "%5p [${spring.application.name},%X{trace_id},%X{span_id}]"
+    
 management:
   endpoint:
     shutdown:

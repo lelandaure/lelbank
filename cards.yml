@@ -33,7 +33,7 @@ cards:
   message: "Default: Welcome to LELBank accounts related local APIs "
   contactDetails:
     name: "Luis Landaure - Developer"
-    email: "lel@default.com"
+    email: "default@default.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345

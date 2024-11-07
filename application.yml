@@ -14,6 +14,8 @@ logging:
     
 management:
   endpoint:
+    env:
+      show-values: ALWAYS
     shutdown:
       enabled: true
     health:
